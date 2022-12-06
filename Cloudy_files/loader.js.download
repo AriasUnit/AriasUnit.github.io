@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4850361438804569" crossorigin="anonymous"></script>
+<script type="text/javascript"> var infolinks_pid = 3367741; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Cloudy</title>
+<meta content="Official website of Cloudy. Feel free to check out our Website & Discord server if you would like to have some fun." name="description">
+<meta content="Cloudy, Cloudy1v1, 1v1.lol, 1v1, lol, fortnite, buildnowgg, bng, buildnow, justbuild, strucid, valorant, valorant play, play valorant, play games, unblocked" name="keywords">
+<meta property="og:image" content="https://media.discordapp.net/attachments/904140496249684048/1045909175491895406/CCA3F19D-DF1C-495D-81D7-4EFE82D43B49.png">
+<link href="assets/img/favicon.png" rel="icon">
+<link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+<link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+<link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+<link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+<link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+<script src="/cdn-cgi/apps/head/EfnJhV9Nrr5RndrEMEMZatLn69c.js"></script><script src="assests/js/loader.js"></script>
+<link href="assets/css/style.css" rel="stylesheet">
+</head>
+<header id="header" class="fixed-top ">
+<div class="container d-flex align-items-center justify-content-between">
+<h1 class="logo"><a href="index.html">Cloudy</a></h1>
+
+<nav id="navbar" class="navbar">
+<ul>
+<li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+<li><a class="nav-link scrollto" href="#about">About</a></li>
+<li><a class="nav-link scrollto" href="#offers">Offers</a></li>
+<li><a class="nav-link scrollto" href="#team">Team</a></li>
+<li class="dropdown"><a href="#"><span>Other</span> <i class="bi bi-chevron-down"></i></a>
+<ul>
+<li><a href="apply.html">Applications</a></li>
+<li class="dropdown"><a href="#"><span>Socials</span> <i class="bi bi-chevron-right"></i></a>
+<ul>
+<li><a href="https://youtube.com/@TeamCloudy">YouTube</a></li>
+<li><a href="https://discord.com/invite/scayYACUK7">Discord</a></li>
+<li><a href="https://www.tiktok.com/@cld.esportss?_t=8Xd3XzW6D4I&_r=1">TikTok</a></li>
+<li><a href="#">Twitter</a></li>
+<li><a href="https://instagram.com/cloudy6.lol?igshid=NDk5N2NlZjQ=">Instagram</a></li>
+</ul>
+</li>
+<li><a href="#">Videos</a></li>
+<li><a href="games.html">Games</a></li>
+<li><a href="terms.html">Terms & Condition</a></li>
+<li><a href="privacy.html#policy">Privacy Policy</a></li>
+</ul>
+</li>
+<li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+<li><a class="getstarted scrollto" href="https://discord.com/invite/scayYACUK7">Join</a></li>
+</ul>
+<i class="bi bi-list mobile-nav-toggle"></i>
+</nav>
+</div>
+</header>
+<section id="hero" class="d-flex flex-column justify-content-end align-items-center">
+<div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
+<div class="carousel-item active">
+<div class="carousel-container">
+<h2 class="animate__animated animate__fadeInDown">Welcome to <span>Cloudy</span></h2>
+<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Get Started</a>
+</div>
+</div>
+
+<div class="carousel-item">
+<div class="carousel-container">
+<h2 class="animate__animated animate__fadeInDown">Why Join <span>Cloudy</span></h2>
+<p class="animate__animated animate__fadeInUp"></p>
+<a href="#faq" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+</div>
+</div>
+</div>
+<a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+<span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>
+</a>
+<a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+<span class="carousel-control-next-icon bx bx-chevron-right" aria-hidden="true"></span>
+</a>
+</div>
+<svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none">
+<defs>
+<path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z">
+</defs>
+<g class="wave1">
+<use xlink:href="#wave-path" x="50" y="3" fill="rgba(255,191,0, .2)">
+</g>
+<g class="wave2">
+<use xlink:href="#wave-path" x="50" y="0" fill="rgba(255,191,0, .4)">
+</g>
+<g class="wave3">
+<use xlink:href="#wave-path" x="50" y="9" fill="#8B8B8B">
+</g>
+</svg>
+</section>
+<main id="main">
+<section id="about" class="about">
+<div class="container">
+<div class="row content">
+<div class="col-lg-6">
+<h2>About Cloudy</h2>
+<h3>Established in August of 2022, Cloudy’s entertainment and lifestyle organization that was created with a desire to bring innovation to the business of esports teams while upholding our core values of professionalism and have been continuously working to make this a safe and secure environment for our community and a supportive yet challenging ambiance for our players.</h3>
+</div>
+<div class="col-lg-6 pt-4 pt-lg-0">
+<p>
+One of the main goals for our competitive division in Cloudy is to create the best atmosphere for our whole team and enable them to overcome all obstacles and achieve outstanding performances, while participating in the most important tournaments and leagues.
+We encourage improvement in all our players and assist in pushing them to the next level.
+</p>
+<ul>
+<li><i class="ri-check-double-line"></i> Supportive Members</li>
+<li><i class="ri-check-double-line"></i> Fun Community</li>
+<li><i class="ri-check-double-line"></i>
+Grind for us today, to experience all the great things we have to offer! #CloudyOT</li>
+</ul>
+<p class="fst-italic">
+Cloudy ©
+</p>
+</div>
+</div>
+</div>
+</section>
+<section id="offers" class="offers">
+<div class="container">
+<div class="row">
+<div class="col-lg-4">
+<div class="box">
+<span>01</span>
+<h4>Fun & Engaging Community</h4>
+<p>Our community is very social with other members. Whether it be the discussion of games or the topic about life, everyone mostly gets along well.</p>
+</div>
+</div>
+<div class="col-lg-4 mt-4 mt-lg-0">
+ <div class="box">
+<span>02</span>
+<h4>Content</h4>
+<p>Our content is published trying to serve top tier quality for our members. Most of the content published is based on team members. You get a chance to show off your skill to thousands online and we get content.</p>
+</div>
+</div>
+<div class="col-lg-4 mt-4 mt-lg-0">
+<div class="box">
+<span>03</span>
+<h4></h4>
+<p>In addition to creating a competitive and professional esports team, we focus on creating entertaining content that appeals to our audience as well as helping our community in terms of lifestyle and keeping a positive mindset in what they do.
+Providing a safe and secure environment for our community is one of our central aims when building this team as we strongly believe that the community we create really matters and contributes towards the growth of the organization itself.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="faq" class="faq">
+<div class="container">
+<div class="section-title">
+<h2>Frequently Asked Questions</h2>
+</div>
+<ul class="faq-list">
+<li>
+<div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Does Cloudy (Cloudy) Pay? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+<div id="faq1" class="collapse" data-bs-parent=".faq-list">
+<p>
+No Cloudy does not pay as of right now. Only GFX / VFX members have the ability to be paid.
+</p>
+</div>
+</li>
+<li>
+<div data-bs-toggle="collapse" href="#faq2" class="collapsed question">How Can I Join?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+<div id="faq2" class="collapse" data-bs-parent=".faq-list">
+<p>
+Please join our <a href="https://discord.com/invite/scayYACUK7">Discord</a> server then proceed to the specific channel where Recruitment Videos are sent. However, if you are unable to get clips due to computer wise problems please join the server and notify a High Role ONCE and wait patiently. Help will be given once that member is available. (Not all tryouts are to be accepted. Reasons must be acceptable.)
+</p>
+</div>
+</li>
+<li>
+<div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Where Can I Contact Support? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+<div id="faq3" class="collapse" data-bs-parent=".faq-list">
+<p>
+You can contact support by joining our <a href="https://discord.com/invite/scayYACUK7">Discord</a> server. Plenty of links of our <a href="https://discord.com/invite/scayYACUK7">Discord</a> server is on this website, click on one of them and you will be redirected to accepting the invite to our server.
+</p>
+</div>
+</li>
+<li>
+<div data-bs-toggle="collapse" href="#faq4" class="collapsed question">What if I am Not Good Enough? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+<div id="faq4" class="collapse" data-bs-parent=".faq-list">
+<p>
+Everyone is welcome into the Cloudy <a href="https://discord.com/invite/scayYACUK7">Discord</a> server! We have a team specified towards members who need improvement and if you don't want to join the team you can just hangout with everyone else on the server. There's always plenty to do!
+</p>
+</div>
+</li>
+<li>
+<div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Can I Join as a Moderator / Manager / et cetera? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+<div id="faq5" class="collapse" data-bs-parent=".faq-list">
+<p>
+There are requirements to join Cloudy as any of these. Of course, there will be times when Cloudy will need to recruit more staff / managers/ etc. but we do these through applications or resumes. In order to join as any managing role basically, you will need to meet all the requirements. The requirements are private only to staff so that no one applying can answer within those requirements.
+</p>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<section id="contact" class="contact section-bg">
+<div class="container">
+<div class="section-title">
+<h2>Contact</h2>
+<p>Below is our Discord server. Feel free to join if you want to contact any authorities or if you simply want to just have fun.</p>
+</div>
+<iframe src="https://discord.com/widget?id=817770384052453386&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</div>
+</section>
+</main>
+<footer id="footer">
+<div class="footer-top">
+<div class="container">
+<div class="row">
+<div class="col-lg-2 col-md-6 footer-links">
+<h4>Navigation Links</h4>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="#offers">Offers</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="terms.html#terms">Terms And Conditions</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="privacy.html#policy">Privacy policy</a></li>
+</ul>
+</div>
+<div class="col-lg-3 col-md-6 footer-links">
+<h4>Others</h4>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="#">Soon . . .</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="#">Soon . . .</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="#">Soon . . .</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="#">Soon . . .</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="#">Soon . . .</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="container d-md-flex py-4">
+<div class="me-md-auto text-center text-md-start">
+<div class="copyright">
+&copy; Copyright <strong><span>Cloudy</span></strong>. All Rights Reserved.
+</div>
+</div>
+<div class="social-links text-center text-md-right pt-3 pt-md-0">
+<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+<a href="#" class="linkedin"><i class="bx bxl-youtube"></i></a>
+</div>
+</div>
+</footer>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+<script src="assets/vendor/purecounter/purecounter.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+<script src="assets/js/team.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
