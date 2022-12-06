@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.synapse.to	TRUE	/	FALSE	1999999999	__cf_bm	Pe0qlANRoK3WcS67LYZHpEXUxVyZbLOlKA_TsyJTquE-1670327754-0-AS76k9eCcFCJkVO11dHqhmGxqgwc3IndRBPo+21PWfoysreVly7ThHJswvm33MjIRmwwv3QGE0c2TZ/koNAj9JI=
+x.synapse.to	TRUE	/	FALSE	1999999999	SameSite	None
+
